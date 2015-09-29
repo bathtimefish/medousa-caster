@@ -1,0 +1,26 @@
+
+/* Space out content a bit */
+body {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #000;
+}
+
+div.monitor {
+  text-align: center;
+}
+
+#caster-video {
+  height: 720px;
+}
+
+div.my-monitor {
+  position: absolute;
+  z-index: 100;
+  top: 10px;
+  left: 962px;
+}
+
+#my-video {
+  width: 50%;
+}
